@@ -1,0 +1,17 @@
+show dbs
+show yelp_camp
+show yelp_camp_v6
+use yelp_camp
+show collecrions
+show collections
+db.campgrounds
+yelp_camp.campgrounds
+db.comment.remove({})
+db.comment.find({})
+db.campgrounds.find({})
+db.campgrounds.remove({})
+db.campgrounds.find({})
+db.comment.remove({})
+db.comments.find({})
+db.comments.remove({})
+db.users.remove({})

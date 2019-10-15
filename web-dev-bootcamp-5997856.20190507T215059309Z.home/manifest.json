@@ -1,0 +1,12 @@
+{
+  "name": "web-dev-bootcamp",
+  "id": "5997856",
+  "description": "",
+  "gitUrl": "",
+  "workspaceType": "nodejs",
+  "dockerBaseImage": "cloud9/ws-nodejs:2017-08-31T12-15-07Z",
+  "owner": {
+    "name": "agamdeep",
+    "id": "2160409"
+  }
+}
